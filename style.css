@@ -1,0 +1,18 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  box-shadow:mediumpurple 5px 5px ;
+}
+
+.copy_right_footer 
+{
+  position: fixed;
+  color: lavenderblush;
+  bottom: 0;
+  width: 100%;
+  background-color: mediumpurple;
+  line-height: 1;
+  text-align: center;
+}
